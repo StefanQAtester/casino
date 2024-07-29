@@ -1,0 +1,3 @@
+.file-list-item .last-updated {
+    display: none;
+}
